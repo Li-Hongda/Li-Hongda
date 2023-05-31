@@ -12,10 +12,9 @@
 
 <br/>  
 
-
-##   
 <table><tr><td valign="top" width="50%">  
-
+  
+  ## My Infos
 - 📫 I might be a little slow to respond.  
   
 
