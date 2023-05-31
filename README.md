@@ -4,8 +4,6 @@
   
   
 
-
-
 ### Glad to see you here!  
 #### *Hi, I’m Li-Hongda, a computer vision developer from Northwestern Polytechnical University. Object detection ,instance segmentation and adversarial learning are my main research directions. In my spare time, I also study the deployment of CV models.*  
   
@@ -14,10 +12,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [TensorRT_Inference_Demo](https://github.com/Li-Hongda/TensorRT_Inference_Demo)  
-  
+<table><tr><td valign="top" width="50%">  
 
 - ⚡ I might be a little slow to respond.  
   
